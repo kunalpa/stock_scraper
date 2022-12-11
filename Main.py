@@ -11,7 +11,7 @@ from ArrSorts import ArrSorts
 def main():  # gathers user input and redirects to corresponding functions
     file = "data/S&P500.csv"
     file = "data/tiny.csv"
-    file = "data/small.csv"
+    # file = "data/small.csv"
     nodes = []
     print('Current file: ' + file)
     while True:
