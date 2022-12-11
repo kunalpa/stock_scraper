@@ -1,0 +1,81 @@
+AMCR_                                                                                                                                                  
+     \                                                                                                                                                 
+    AES_                                                                                                                                               
+        \                                                                                                                                              
+       APA__                                                                                                                                           
+            \                                                                                                                                          
+          APTV_                                                                                                                                        
+               \                                                                                                                                       
+              APH_                                                                                                                                     
+                  \                                                                                                                                    
+                 AMD_____                                                                                                                              
+                         \                                                                                                                             
+                      _ANET_____                                                                                                                       
+                     /          \                                                                                                                      
+                    LNT      _ABMD_                                                                                                                    
+                            /      \                                                                                                                   
+                           ADI    AOS__                                                                                                                
+                                       \                                                                                                               
+                                     ATVI_                                                                                                             
+                                          \                                                                                                            
+                                         ALK_                                                                                                          
+                                             \                                                                                                         
+                                            ARE_                                                                                                       
+                                                \                                                                                                      
+                                               AEE__                                                                                                   
+                                                    \                                                                                                  
+                                                  AKAM___                                                                                              
+                                                         \                                                                                             
+                                                        _A_                                                                                            
+                                                       /   \                                                                                           
+                                                      ABT AME_                                                                                         
+                                                              \                                                                                        
+                                                             AJG_                                                                                      
+                                                                 \                                                                                     
+                                                                AEP_                                                                                   
+                                                                    \                                                                                  
+                                                                   ADM_                                                                                
+                                                                       \                                                                               
+                                                                      ALL__                                                                            
+                                                                           \                                                                           
+                                                                         ANSS__                                                                        
+                                                                               \                                                                       
+                                                                             ALLE_                                                                     
+                                                                                  \                                                                    
+                                                                                 AMT_                                                                  
+                                                                                     \                                                                 
+                                                                                    AON__                                                              
+                                                                                         \                                                             
+                                                                                       AAPL_                                                           
+                                                                                            \                                                          
+                                                                                           AFL__                                                       
+                                                                                                \                                                      
+                                                                                              ABBV_                                                    
+                                                                                                   \                                                   
+                                                                                                  AWK__                                                
+                                                                                                       \                                               
+                                                                                                     AMAT_                                             
+                                                                                                          \                                            
+                                                                                                         ABC_                                          
+                                                                                                             \                                         
+                                                                                                            AAP_                                       
+                                                                                                                \                                      
+                                                                                                               ACN__                                   
+                                                                                                                    \                                  
+                                                                                                                  ALGN_                                
+                                                                                                                       \                               
+                                                                                                                      APD_____                         
+                                                                                                                              \                        
+                                                                                                                            _AXP_                      
+                                                                                                                           /     \                     
+                                                                                                                         ADBE   MMM__                  
+                                                                                                                                     \                 
+                                                                                                                                   AMGN_               
+                                                                                                                                        \              
+                                                                                                                                       AMP__           
+                                                                                                                                            \          
+                                                                                                                                          ANTM__       
+                                                                                                                                                \      
+                                                                                                                                              AMZN__   
+                                                                                                                                                    \  
+                                                                                                                                                  GOOGL
